@@ -41,7 +41,6 @@ function muppetShow(a, b) {
   const rainbowConnection = () => `Someday we'll find it. The Rainbow Connection. The lovers, the dreamers and me`;
   console.log(rainbowConnection());
 
-  // No
 
   let outerVariable = "initial value";
 function updateOuterVariable() {
